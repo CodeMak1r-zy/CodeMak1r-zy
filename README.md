@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeMak1r-zy
-- 👀 I’m interested in web,javascript,c++,vue and react...
-- 🌱 I’m currently learning javascript,react and vue
+- 👀 I’m a development engineer
+- 🌱 I’m currently base Guangzhou
 - 📫 How to reach me : pseudonymgeanmu@163.com
 
 
